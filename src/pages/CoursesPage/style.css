@@ -1,0 +1,116 @@
+@charset "UTF-8";
+.courses {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 40px;
+  background-color: white;
+  text-align: center;
+}
+.courses h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+.courses h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.courses h3 {
+  font-size: 1.6rem;
+}
+.courses p {
+  font-size: 1.3rem;
+  color: #666;
+}
+.courses ul {
+  position: relative;
+  list-style: none;
+  top: 0;
+  left: 0;
+}
+.courses ul li {
+  font-size: 1.2rem;
+}
+.courses ul li ::after {
+  position: absolute;
+  right: 0;
+  content: "☑️";
+}
+.courses .course-list {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+}
+.courses .course-list .course-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  width: 98%;
+  margin: auto;
+  height: 780px;
+  border-radius: 30px;
+  box-shadow: 0 2px 5px 5px rgba(50, 150, 250, 0.8);
+  padding: 20px;
+  background-color: white;
+}
+.courses .course-list .course-card div {
+  width: 50%;
+  height: 100%;
+}
+.courses .course-list .course-card a {
+  border-radius: 12px;
+  padding: 5px 12px 5px 12px;
+  font-size: 2rem;
+  background-color: #46a0dc;
+  color: white;
+}
+.courses .course-list .course-card a :hover {
+  box-shadow: 0px 0px 20px 5px #46a0dc;
+}
+.courses .course-list .course-card .course-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.courses .course-list .course-card .svgbox {
+  position: relative;
+}
+.courses .course-list .course-card .svgbox svg {
+  position: absolute;
+  top: -50px;
+  width: 100%;
+  height: 100%;
+}
+.courses .course-list :nth-child(odd) .svgbox {
+  order: 0;
+  left: -20%;
+}
+.courses .course-list :nth-child(even) .svgbox {
+  order: 1;
+  right: 20%;
+}
+
+.dark .courses {
+  background-color: #1d1d1d;
+}
+.dark .courses .course-list {
+  background-color: #1d1d1d;
+  color: white;
+}
+.dark .courses .course-list .course-card {
+  background-color: #1d1d1d;
+}
+.dark .courses .course-list .course-card a {
+  color: #000;
+  background-color: white;
+  box-shadow: 0px 0px 5px 1px white;
+}/*# sourceMappingURL=style.css.map */

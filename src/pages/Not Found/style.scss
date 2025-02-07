@@ -1,0 +1,16 @@
+.p404 {
+    width: 100%;
+    height: 700px;
+    // background-size: cover !important;
+    background-position:center !important;  
+    background-repeat: no-repeat !important;
+    background-image: url(https://mkxftmuzrsovmeodqgfv.supabase.co/storage/v1/object/sign/Exam/404/404day.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJFeGFtLzQwNC80MDRkYXkuanBnIiwiaWF0IjoxNzM4MjY1NjIyLCJleHAiOjE3Njk4MDE2MjJ9.ja49cvoDTodQLgvMSzVzPgBZuhzZqqVixasizL8_P5U);
+    
+}
+.dark{
+    .p404{
+        background-size: cover;
+        background-position: center;
+        background: url(https://mkxftmuzrsovmeodqgfv.supabase.co/storage/v1/object/sign/Exam/404/404night.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJFeGFtLzQwNC80MDRuaWdodC53ZWJwIiwiaWF0IjoxNzM4MjY1NjY5LCJleHAiOjE3Njk4MDE2Njl9.AmNLHYzMNxbrp8WlVM2HKVmMv9Yp0tDTfcYjFi6O2Hc);
+    }
+}

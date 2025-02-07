@@ -1,0 +1,28 @@
+.Home {
+    width: 100%;
+}
+
+.swiper {
+    background: rgba(#000, $alpha: 0.1);
+    padding: 20px;
+    width: 100%;
+    height: 83vh;
+
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+        display: block;
+        width: 80%;
+        height: 100%;
+        object-fit: cover;
+    }
+}

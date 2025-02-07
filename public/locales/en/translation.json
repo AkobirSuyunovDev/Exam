@@ -1,0 +1,121 @@
+{
+  "catalog":"Course Catalog",
+  "more":"More Information",
+  "nav":{
+    
+  },
+  "courses": [
+    {
+      "id": "frontend",
+      "p1": "This course is designed to help you master frontend development, covering <br>everything from basic HTML, CSS, and JavaScript to advanced frameworks like <br>React. You’ll learn how to create responsive, dynamic, and visually appealing web <br> applications using modern technologies.",
+      "p2": "By the end of the course, you will be able to build modern, interactive websites <br>and applications, preparing you for real-world projects or job opportunities in <br>the field of web development.",
+      "name": "Frontend Development Course",
+      "description": {
+        "ul": [
+          {
+            "li": "Fundamentals of HTML, CSS, and JavaScript"
+          },
+          {
+            "li": "Responsive design with Flexbox and Grid"
+          },
+          {
+            "li": "JavaScript ES6+ and DOM manipulation"
+          },
+          {
+            "li": "Working with APIs and asynchronous JavaScript"
+          },
+          {
+            "li": "Advanced concepts in React, including hooks and state management"
+          },
+          {
+            "li": "Web performance optimization and best coding practices"
+          }
+        ],
+        "ultitle": "What you will learn:"
+      }
+    },
+    {
+      "id": "backend",
+      "name": "Backend Development Course (Python)",
+      "p1":"This course will teach you how to build powerful and scalable backend systems <br>using Python. You will learn how to work with databases, create APIs, and <br>develop secure, high-performance web applications. The course covers both <br>fundamental and advanced backend development concepts.",
+      "p2":"By the end of the course, you will be able to build efficient, scalable backend <br>systems and confidently develop web applications using Python.",
+      "description": {
+        "ul": [
+          {
+            "li": "Python fundamentals for backend development"
+          },
+          {
+            "li": "Working with databases (SQL and NoSQL)"
+          },
+          {
+            "li": "Building RESTful APIs using FastAPI or Flask"
+          },
+          {
+            "li": "Authentication and user management"
+          },
+          {
+            "li": "Deployment and server management"
+          },
+          {
+            "li": "Security best practices and performance optimization"
+          }
+        ],
+        "ultitle": "What you will learn:"
+      }
+    },
+    {
+      "id": "software",
+      "name": "Software Management",
+      "description": {
+        "ul": [
+          {
+            "li": "HTML, CSS va JavaScript asoslari"
+          },
+          {
+            "li": "Flexbox va Grid yordamida moslashuvchan dizayn yaratish"
+          },
+          {
+            "li": "JavaScript ES6+ va DOM bilan ishlash"
+          },
+          {
+            "li": "API va asinxron JavaScript"
+          },
+          {
+            "li": "React’ning ilg‘or tushunchalari: hook’lar va state boshqaruvi"
+          },
+          {
+            "li": "Veb-sahifalar tezligini optimallashtirish va eng yaxshi kod yozish usullari"
+          }
+        ],
+        "ultitle": "What you will learn:"
+      }
+    },
+    {
+      "id": "hardware",
+      "name": "Hardware Management",
+      "description": {
+        "ul": [
+          {
+            "li": "HTML, CSS va JavaScript asoslari"
+          },
+          {
+            "li": "Flexbox va Grid yordamida moslashuvchan dizayn yaratish"
+          },
+          {
+            "li": "JavaScript ES6+ va DOM bilan ishlash"
+          },
+          {
+            "li": "API va asinxron JavaScript"
+          },
+          {
+            "li": "React’ning ilg‘or tushunchalari: hook’lar va state boshqaruvi"
+          },
+          {
+            "li": "Veb-sahifalar tezligini optimallashtirish va eng yaxshi kod yozish usullari"
+          }
+        ],
+        "ultitle": "What you will learn:"
+      }
+    }
+  ]
+}

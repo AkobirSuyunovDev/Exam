@@ -1,0 +1,117 @@
+{
+  "catalog": "Kurslar Katalogi",
+  "more": "Batafsil",
+  "nav": {},
+  "courses": [
+    {
+      "id": "frontend",
+      "p1": "Bu kurs sizga frontend dasturlashni o‘zlashtirishga yordam beradi, boshlang‘ich <br> HTML, CSS va JavaScript’dan tortib, React kabi ilg‘or frameworklargacha bo‘lgan <br> mavzularni qamrab oladi. Siz zamonaviy texnologiyalar yordamida moslashuvchan, <br> dinamik va jozibador veb-ilovalar yaratishni o‘rganasiz.",
+      "p2": "Kurs yakunida siz zamonaviy, interaktiv veb-sayt va ilovalarni yaratish bo‘yicha real <br> loyihalar yoki ish imkoniyatlari uchun tayyor bo‘lasiz.",
+      "name": "Frontend Dasturlash kursi",
+      "description": {
+        "ul": [
+          {
+            "li": "HTML, CSS va JavaScript asoslari"
+          },
+          {
+            "li": "Flexbox va Grid yordamida moslashuvchan dizayn yaratish"
+          },
+          {
+            "li": "JavaScript ES6+ va DOM bilan ishlash"
+          },
+          {
+            "li": "API va asinxron JavaScript"
+          },
+          {
+            "li": "React’ning ilg‘or tushunchalari: hook’lar va state boshqaruvi"
+          },
+          {
+            "li": "Veb-sahifalar tezligini optimallashtirish va eng yaxshi kod yozish usullari"
+          }
+        ],
+        "ultitle": "Nimalarni o‘rganasiz:"
+      }
+    },
+    {
+      "id": "backend",
+      "name": "BackEnd",
+      "description": {
+        "ul": [
+          {
+            "li": "HTML, CSS va JavaScript asoslari"
+          },
+          {
+            "li": "Flexbox va Grid yordamida moslashuvchan dizayn yaratish"
+          },
+          {
+            "li": "JavaScript ES6+ va DOM bilan ishlash"
+          },
+          {
+            "li": "API va asinxron JavaScript"
+          },
+          {
+            "li": "React’ning ilg‘or tushunchalari: hook’lar va state boshqaruvi"
+          },
+          {
+            "li": "Veb-sahifalar tezligini optimallashtirish va eng yaxshi kod yozish usullari"
+          }
+        ],
+        "ultitle": "Nimalarni o‘rganasiz:"
+      }
+    },
+    {
+      "id": "software",
+      "name": "Software Management",
+      "description": {
+        "ul": [
+          {
+            "li": "HTML, CSS va JavaScript asoslari"
+          },
+          {
+            "li": "Flexbox va Grid yordamida moslashuvchan dizayn yaratish"
+          },
+          {
+            "li": "JavaScript ES6+ va DOM bilan ishlash"
+          },
+          {
+            "li": "API va asinxron JavaScript"
+          },
+          {
+            "li": "React’ning ilg‘or tushunchalari: hook’lar va state boshqaruvi"
+          },
+          {
+            "li": "Veb-sahifalar tezligini optimallashtirish va eng yaxshi kod yozish usullari"
+          }
+        ],
+        "ultitle": "Nimalarni o‘rganasiz:"
+      }
+    },
+    {
+      "id": "hardware",
+      "name": "Hardware Management",
+      "description": {
+        "ul": [
+          {
+            "li": "HTML, CSS va JavaScript asoslari"
+          },
+          {
+            "li": "Flexbox va Grid yordamida moslashuvchan dizayn yaratish"
+          },
+          {
+            "li": "JavaScript ES6+ va DOM bilan ishlash"
+          },
+          {
+            "li": "API va asinxron JavaScript"
+          },
+          {
+            "li": "React’ning ilg‘or tushunchalari: hook’lar va state boshqaruvi"
+          },
+          {
+            "li": "Veb-sahifalar tezligini optimallashtirish va eng yaxshi kod yozish usullari"
+          }
+        ],
+        "ultitle": "Nimalarni o‘rganasiz:"
+      }
+    }
+  ]
+}
